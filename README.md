@@ -18,6 +18,13 @@ Challenge_Alura_Store/
 
 ## 📈 Insights y Hallazgos Principales
 
+### 📊 Visualizaciones Generadas
+
+| Ingresos Totales por Tienda | Calificación Promedio | Distribución (Tienda 3) |
+|:---:|:---:|:---:|
+| <img src="ingresos.png" width="300"> | <img src="calificaciones.png" width="300"> | <img src="categorias_t3.png" width="300"> |
+
+
 1. **Eficiencia en Ingresos vs Costos de Envío:** La **Tienda 1** fue la que más facturó ($1,150 millones COP), sin embargo, arrastra el mayor costo de envío promedio y la calificación de cliente más baja. Esto indica un alto volumen de negocio pero márgenes y niveles de retención en riesgo de ineficiencia.
 2. **Alta Satisfacción como Ventaja Competitiva:** La **Tienda 3** registró los niveles de satisfacción promedio de los clientes más altos (4.04 estrellas), manteniendo al mismo tiempo un gran volumen de ventas (1,098 millones COP) casi a la par con los líderes.
 3. **Distribución de Ventas:** En su mayoría, las tiendas están dominadas por la venta de **Muebles** y **Electrónicos**. El producto más repetido que mejor funcionó fue el *Microondas*. 
